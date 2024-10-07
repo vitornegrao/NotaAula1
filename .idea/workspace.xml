@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6145950-3e07-4d50-9f39-c84050441055" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questao1/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questao1/Questao1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questao1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questao2/Questao2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questao2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Questao1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Questao2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Questao2/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728312703696</updated>
-      <workItem from="1728312704726" duration="3552000" />
+      <workItem from="1728312704726" duration="4983000" />
     </task>
     <servers />
   </component>
